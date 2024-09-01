@@ -8,6 +8,12 @@ const nextConfig = {
                 port: '',
                 pathname: '/128/**',
             },
+            {
+                protocol: 'https',
+                hostname: 'www.aaronfaber.com',
+                port: '',
+                pathname: '/wp-content/**',
+            },
         ],
     },
 };
