@@ -15,7 +15,7 @@ export function AboutPage() {
                     Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit phasellus mollis sit aliquam sit nullam.
                 </div>
             </div>
-            <div className="flex flex-col justify-center items-center grid grid-cols-2 lg:grid-cols-3 md:grid-cols-3 gap-10 mb-10">
+            <div className="flex-col justify-center items-center grid grid-cols-2 lg:grid-cols-3 md:grid-cols-3 gap-10 mb-10">
                 <div className="flex flex-col justify-center items-center gap-1">
                     <div className="bg-gray-100 p-4 rounded-full inline-flex mb-2">
                         <UserRound />
